@@ -15,12 +15,11 @@ baseurl: '/online-cv' #change it according to your repository name
 #Profile information
 name: Lala Shashank Shivam
 tagline: Data Science Enthusiast
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: shashank.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: shivam.shashank1@gmail.com
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
+linkedin: Shashank Shivam
 github: Shashank-coder
 
 
